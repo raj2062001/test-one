@@ -1,2 +1,2 @@
-It is a file
+It is a file.
 ##Readme.md
